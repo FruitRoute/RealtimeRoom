@@ -934,3 +934,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.30-10.13.34:649][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.09.30-10.13.36:008][146]LogAssetRegistry: Asset discovery search completed in 7.7658 seconds
 [2020.09.30-10.13.36:011][146]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.09.30-10.15.33:168][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.09.30-10.15.34:675][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2020.09.30-10.15.36:031][221]Cmd: DELETE
+[2020.09.30-10.15.36:031][221]Cmd: ACTOR DELETE
+[2020.09.30-10.15.36:037][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.30-10.15.36:047][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.09.30-10.15.36:048][221]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2020.09.30-10.15.36:443][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.09.30-10.15.37:131][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.09.30-10.15.37:236][356]Cmd: DELETE
+[2020.09.30-10.15.37:236][356]Cmd: ACTOR DELETE
+[2020.09.30-10.15.37:238][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.30-10.15.37:247][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.09.30-10.15.37:248][356]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2020.09.30-10.15.38:154][465]Cmd: TRANSACTION UNDO
+[2020.09.30-10.15.38:155][465]LogEditorTransaction: Undo Delete Actors
+[2020.09.30-10.15.38:172][465]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.30-10.15.38:349][470]Cmd: TRANSACTION UNDO
+[2020.09.30-10.15.38:349][470]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.30-10.15.39:374][562]Cmd: TRANSACTION UNDO
+[2020.09.30-10.15.39:374][562]LogEditorTransaction: Undo Clicking on Actors
+[2020.09.30-10.15.40:016][639]Cmd: TRANSACTION UNDO
+[2020.09.30-10.15.40:016][639]LogEditorTransaction: Undo Delete Actors
+[2020.09.30-10.15.43:970][ 88]Cmd: TRANSACTION UNDO
+[2020.09.30-10.15.43:970][ 88]LogEditorTransaction: Undo Move Actors
+[2020.09.30-10.15.53:777][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.09.30-10.15.53:800][184]LogSavePackage: Moving 'D:/UnrealProjects/RealtimeRoom/RealtimeRoom/Relatime/Saved/Minimal_Default6C4935E44DE5DB23E2A8FEAC3974318D.tmp' to 'D:/UnrealProjects/RealtimeRoom/RealtimeRoom/Relatime/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.09.30-10.15.55:130][184]LogSavePackage: Moving 'D:/UnrealProjects/RealtimeRoom/RealtimeRoom/Relatime/Saved/Minimal_Default_BuiltDataA0509DC0427336D9CC6108B984AB7561.tmp' to 'D:/UnrealProjects/RealtimeRoom/RealtimeRoom/Relatime/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.09.30-10.15.55:168][184]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.30-10.15.55:168][184]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.09.30-10.15.55:168][184]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
